@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daviy
+- 👋 Hi, I’m David
 - 👀 I’m interested in python (ML, data analytics tools), js , SQL 
 
 - 🌱 I’m currently learning Machine learning using python and improving my data analytics skills in sql
